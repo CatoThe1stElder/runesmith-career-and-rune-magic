@@ -1,0 +1,24 @@
+{
+  "Item": {
+    "types": [
+      "ammunition",
+      "armour",
+      "career",
+      "container",
+      "critical",
+      "disease",
+      "injury",
+      "money",
+      "mutation",
+      "prayer",
+      "psychology",
+      "talent",
+      "trapping",
+      "skill",
+      "spell",
+      "trait",
+      "weapon",
+      "rune"
+    ]
+  }
+}

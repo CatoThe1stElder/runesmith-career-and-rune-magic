@@ -1,0 +1,29 @@
+{
+  "name": "runesmith-career-and-rune-magic",
+  "title": "Runesmith Career & Rune Magic",
+  "description": "This module adds the Dwarfen specific runesmith career and a system for runesmith magic.",
+  "version": "1.0",
+  "author": "CatoThe1stElder & BadJuju",
+  "systems": [
+    "wfrp4e"
+  ],
+  "scripts": ["runesmith.js"],
+  "styles": [],
+  "packs": [
+    {
+      "name": "arcanecareers",
+      "label": "Arcane Careers",
+      "path": "packs/arcanecareers.db",
+      "entity": "Item",
+      "module": "arcane-marks-careers",
+      "system": "wfrp4e",
+      "tag" : "career"
+    }
+  ],
+  "url": "https://github.com/moo-man/Arcane-Marks-Careers-FVTT",
+  "minimumCoreVersion": "0.5.2",
+  "manifest": "https://raw.githubusercontent.com/moo-man/Arcane-Marks-Careers-FVTT/master/module.json",
+  "download": "https://github.com/moo-man/Arcane-Marks-Careers-FVTT/archive/master.zip"
+}
+
+
